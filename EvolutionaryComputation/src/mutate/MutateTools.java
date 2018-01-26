@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Random;
 
+/**
+ * Class which contains various methods utilised by the implementations of the Mutation interface. General tools of sorts.
+ *
+ */
 public class MutateTools 
 {
 	private Random r = new Random();
