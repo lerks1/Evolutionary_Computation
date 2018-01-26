@@ -18,11 +18,11 @@ public class MutateAllTest
 		MutateAll m1 = new MutateAll(1, 10000, 5);
 		m.printMutate(m1);
 		
-		//2 number, ten thousand generations, 5% mutation.
+		//2 numbers, ten thousand generations, 5% mutation.
 		MutateAll m2 = new MutateAll(2, 10000, 5);
 		m.printMutate(m2);
 		
-		//3 number, ten thousand generations, 5% mutation.
+		//3 numbers, ten thousand generations, 5% mutation.
 		MutateAll m3 = new MutateAll(3, 10000, 5);
 		m.printMutate(m3);
 	}
