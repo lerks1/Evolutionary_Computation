@@ -1,4 +1,4 @@
-Java program which explores evolutionary computation (mutation/selection) in an attempt to find the minimum output of a mystery function. 
+Java program which explores Evolutionary Computation (mutation/selection) in an attempt to find the minimum output of a mystery function. 
 
 The mystery function is included in the project files but needs to be added to the build path as an external JAR.
 
